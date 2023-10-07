@@ -6,7 +6,6 @@
 - Zuñiga Chicaña Alejandra Aztirma 
 
 La parte introductoria de la práctica se encuentra en el siguiente link:
-
 https://github.com/Aztirma/CC3S2_Actividades/tree/main/PC1_Introduccion
 
 El video con al explicación de las secciones se encuentra en el siguiente link :
